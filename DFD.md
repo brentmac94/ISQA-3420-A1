@@ -1,4 +1,4 @@
-<strong> ##DATA FLOW DIAGRAM </strong>
+<strong> #DATA FLOW DIAGRAM </strong>
 
 This is the Data Flow Diagram for the class project.
 
