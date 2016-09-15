@@ -24,5 +24,7 @@ This is my commit for the in class exercise in our group. Below is the DFD and D
 
 **Package and Info Response** - Response to manager for package and info. 
 
+##Data Flow Diagram
+
 ![alt text](https://cloud.githubusercontent.com/assets/16868664/18535369/39ca10a2-7ab9-11e6-9304-429a5ed20618.png)
 
