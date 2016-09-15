@@ -4,6 +4,8 @@ This is the Data Flow Diagram for the class project.
 
 This is my commit for the in class exercise in our group. Below is the DFD and Data Dictionary. Please let me know if you would like anything else done on this!
 
+##Data Dictionary
+
 **Developer** - Person responsible for all the coding the main software packages and preparing for the license scan.
 
 **Manager** - Advisor for the software packages. 
