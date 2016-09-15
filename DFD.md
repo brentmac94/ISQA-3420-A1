@@ -2,7 +2,7 @@
 
 This is the Data Flow Diagram for the class project.
 
-This is my commit for the in class exercise in our group. Below is the DFD and Data Dictionary. Please let me know if you would like anything else done on this!
+This is my commit for the 9/14 in-class exercise in our group. Below is the DFD and Data Dictionary. Please let me know if you would like anything else done on this!
 
 ##Data Dictionary
 
