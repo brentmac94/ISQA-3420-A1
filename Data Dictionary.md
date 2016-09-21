@@ -17,3 +17,9 @@
 **Package and Info Response** - Response to manager for package and info. 
 
 **Retrieve full list of Packages and Corresponding License Info** - Process that retrieves requested information from the Software Package & License Info per Manager request.
+
+**Known Vulnerability Issues** -  Data returns any known vulnerabilities in the software package.
+
+**NIST Vulnerability DB** - Database that contains any known vulnerabilities in the software package.
+
+
