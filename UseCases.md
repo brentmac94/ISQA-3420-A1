@@ -1,4 +1,4 @@
-**Use Case Diagram File (There will be 3 use cases).**
+#**Use Case Diagram File (There will be 3 use cases).**#
 ###Example###
 Title: Vending Machine
 Primary Actor: Purchaser Customer
