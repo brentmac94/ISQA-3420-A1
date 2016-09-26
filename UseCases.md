@@ -15,7 +15,7 @@
 Primary Actor: Corporate Manager
 Goal in Context. The Corporate Manager is aable to determine license and vulnerability information from provided project information.
 Stakeholders:
-  - Coroporate Manager: To recieve clear and relevant project information
+  - Coroporate Manager: To recieve clear and relevant OSS license and vulnerability information
   - Coroprate Developer: To provide the revelevant file/package level information
 
 Preconditions:
@@ -23,6 +23,8 @@ Preconditions:
   - Proper project information has been provided 
   
 Main Success Scenario: Corporate Manager receives inaccurate or invalid license and vulnerability information for the requested project packages
+
+Failed End Conditions:  Corporate manager receives inaccurate or invalid license and vulnerability information for the requested project packages
 
 Trigger: Corporate Manaager identifies project informatmion to which license and vulnerability information is provided.
 
