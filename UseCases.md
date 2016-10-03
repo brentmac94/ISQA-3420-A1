@@ -10,7 +10,7 @@
 
 **Preconditions:**
   - Relevant file/package information is in the NIST Vulnerability database 
-  - Should you include that the scanner provides proper license information? 
+  - Scanner provides proper OSS license information
   - License and Vulnerability database is current and up to date
   
 **Main Success Scenario:** Corporate Manager receives accurate and valid license and vulnerability information for the requested project packages
