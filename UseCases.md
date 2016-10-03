@@ -1,4 +1,4 @@
-**Use Case Diagram File (There will be 3 use cases).**
+**======Use Case Diagrams (3)======**
 
 ##Title: Determine License and Vulnerability Infomation##
 **Primary Actor:** Corporate Manager
