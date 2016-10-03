@@ -8,36 +8,39 @@
   - Coroprate Developer: To provide the revelevant file/package level information
 
 **Preconditions:**
-  - Relevant file/package information is in the NIST Vulnerability database
+  - Relevant file/package information is in the NIST Vulnerability database 
+  - Should you include that the scanner provides proper license information? 
   - License and Vulnerability database is current and up to date
   
-**Main Success Scenario:** Corporate Manager receives Accurate and Valid license and vulnerability information for the requested project packages
+**Main Success Scenario:** Corporate Manager receives accurate and valid license and vulnerability information for the requested project packages
 
 **Failed End Conditions:**  Corporate manager receives inaccurate or invalid license and vulnerability information for the requested project packages
 
 **Trigger:** Corporate Manager identifies project informatmion to which license and vulnerability information is provided.
 
+(Not everything in the prior use case was formatted perfectly)
+
 
 <br> <br>
 ##Title: Determine OSS Software Components##
 **Primary Actor:** Corporate Developer
-**Goal in Context:** The Corporate Developer is able to determine Open Soure Software Package Components from provided project information. With this, the Coporate Developer can provide the database an updated Software Package.
+**Goal in Context:** The corporate developer is able to determine Open Soure Software Package Components from provided project information. 
 **Stakeholders:**
-  - Coroporate Manager: To recieve software package and license information.
   - Coroprate Developer: To provide the revelevant file/package level information
 
 **Preconditions:**
-  - Relevant file/package information is in the NIST Vulnerability database and the Software Package Info Database is up and running
+  - Relevant file/package information is in the NIST Vulnerability database and the Software Package Info Database is up and running (watch your use of CAPS)
   - FOSSology is up and runnning
   
 **Main Success Scenario:** Corporate Developer recieves required OSS components based on corresponding request.
 
-**Failed End Conditions:** Corporate Developer receives inaccurate or corrupt software package
+**Failed End Conditions:** Corporate Developer receives inaccurate or corrupt software package (This is different from the main success scenario). 
 
-**Trigger:** Corporate Developer is able to enchance the existing OSS by uploading updated software package.
+**Trigger:** Corporate developer sends request for open source software license and vulnerability information
 
 
 <br> <br>
+(Didn't look at this one yet)
 ##Title: Determine Policies for Corresponding Software Packages##
 **Primary Actor:** Corporate Manager
 **Goal in Context:** The Corporate Manager is able to determine Open Soure Software Package Policies from provided project information. With this, the Coporate Manager can recieve and update current policy documents.
