@@ -29,12 +29,12 @@
   - Coroprate Developer: To provide the revelevant file/package level information
 
 **Preconditions:**
-  - Relevant file/package information is in the NIST Vulnerability database and the Software Package Info Database is up and running (watch your use of CAPS)
+  - Relevant file/package information is in the NIST Vulnerability Database and the Software Package Info Database is up and running (watch your use of CAPS)
   - FOSSology is up and runnning
   
 **Main Success Scenario:** Corporate Developer recieves required OSS components based on corresponding request.
 
-**Failed End Conditions:** Corporate Developer receives inaccurate or corrupt software package (This is different from the main success scenario). 
+**Failed End Conditions:** Corporate Developer receives inaccurate or corrupt OSS components based on request.
 
 **Trigger:** Corporate developer sends request for open source software license and vulnerability information
 
