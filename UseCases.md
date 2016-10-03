@@ -27,8 +27,7 @@
   - Coroprate Developer: To provide the revelevant file/package level information
 
 **Preconditions:**
-  - Relevant file/package information is in the NIST Vulnerability database and the Software Package Info Database
-  - Database is up and running
+  - Relevant file/package information is in the NIST Vulnerability database and the Software Package Info Database is up and running
   - FOSSology is up and runnning
   
 **Main Success Scenario:** Corporate Developer recieves required OSS components based on corresponding request.
@@ -36,4 +35,24 @@
 **Failed End Conditions:** Corporate Developer receives inaccurate or corrupt software package
 
 **Trigger:** Corporate Developer is able to enchance the existing OSS by uploading updated software package.
+
+
+<br> <br>
+##Title: Determine Policies for Corresponding Software Packages##
+**Primary Actor:** Corporate Manager
+**Goal in Context:** The Corporate Manager is able to determine Open Soure Software Package Policies from provided project information. With this, the Coporate Manager can recieve and update current policy documents.
+**Stakeholders:**
+  - Coroporate Manager: To request, recieve and update software package policy information.
+  - Coroprate Developer: To request and recieve associated software policies
+
+**Preconditions:**
+  - Relevant file/package information is in the Software Package License and Vulnerability Policy database 
+  - Software Package Info Database and NIST Vulnerability Database is up and running
+  - FOSSology is up and runnning
+  
+**Main Success Scenario:** Corporate Manager recieves associated policy for corresponding software based on corresponding request. Policy document is updated.
+
+**Failed End Conditions:** Corporate Manager receives inaccurate or corrupt software package policy.
+
+**Trigger:** Corporate Manager is able to update policy document for corresponding software package.
 
