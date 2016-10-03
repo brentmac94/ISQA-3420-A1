@@ -22,4 +22,10 @@
 
 **NIST Vulnerability DB** - Database that contains any known vulnerabilities in the software package.
 
+**Software Package License and Vulnerability Policy** - Database that contains Policy documents for associated software packages
+
+**Retrieve associated policies for corresponding software packages** - Process that retrieves  policy request information for corresponding software packages based on Developer and Manager request.
+
+**Policy documents submitted or modified** - Process where Manager submits or modifies policy documents.
+
 
