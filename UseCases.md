@@ -1,4 +1,4 @@
-**======Use Case Diagrams (3)======**
+**Use Case Diagrams (3)**
 
 ##Title: Determine License and Vulnerability Infomation##
 **Primary Actor:** Corporate Manager
@@ -19,7 +19,6 @@
 
 **Trigger:** Corporate Manager identifies project informatmion to which license and vulnerability information is provided.
 
-(Not everything in the prior use case was formatted perfectly)
 
 
 <br> <br>
