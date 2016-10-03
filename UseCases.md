@@ -3,6 +3,7 @@
 ##Title: Determine License and Vulnerability Infomation##
 **Primary Actor:** Corporate Manager
 **Goal in Context:** The Corporate Manager is able to determine license and vulnerability information from provided project information.
+
 **Stakeholders:**
   - Coroporate Manager: To recieve clear and relevant OSS license and vulnerability information
   - Coroprate Developer: To provide the revelevant file/package level information
