@@ -40,9 +40,13 @@
 
 **Updated Policy Document** - Most up to date policy document submitted by Manager.
 
-**Current Policy Document* -
+**Current Policy Document** - Policy that is returned from the Software Package License and Vulnerability Policy database.
 
+**Policy documents submitted or modified** - Process that submits or modifies policies based on the Manager's changes.
 
+**Retrieve associated policies for corresponding software packages** - Process that retrieves associated software policies as requested.
+
+**Software Package License and Vulnerability Policy** - Database that stores all Software Package License and Vulnerability Policy information.
 
 
 
