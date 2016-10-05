@@ -1,5 +1,7 @@
 #Data Dictionary
 
+((provide headings for Entities, Process, Data Flows, and Data Stores. I think that you have it arranged this way but be more explicit). 
+
 **Developer** - Person responsible for all the coding the main software packages and preparing for the license scan.
 
 **Manager** - Advisor for the software packages. 
