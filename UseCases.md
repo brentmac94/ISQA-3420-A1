@@ -1,7 +1,7 @@
 **Use Case Diagrams (3)**
 
 ##Title: Determine License and Vulnerability Infomation##
-**Primary Actor:** Corporate Manager
+**Primary Actor:** Corporate Manager (not getting line break)
 **Goal in Context:** The Corporate Manager is able to determine license and vulnerability information from provided project information.
 
 **Stakeholders:**
@@ -22,7 +22,7 @@
 
 
 <br> <br>
-##Title: Determine OSS Software Components##
+##Title: Determine OSS Software Components of Project## (Good use case but I don't think it's supported by your DFD at the moment)
 **Primary Actor:** Corporate Developer
 **Goal in Context:** The corporate developer is able to determine Open Soure Software Package Components from provided project information. 
 **Stakeholders:**
@@ -30,13 +30,12 @@
 
 **Preconditions:**
   - Relevant file/package information is in the NIST Vulnerability Database and the Software Package Info Database is up and running (watch your use of CAPS)
-  - FOSSology is up and runnning
   
-**Main Success Scenario:** Corporate Developer recieves required OSS components based on corresponding request.
+**Main Success Scenario:** Corporate Developer recieves required OSS components based on corresponding project request.
 
-**Failed End Conditions:** Corporate Developer receives inaccurate or corrupt OSS components based on request.
+**Failed End Conditions:** Corporate Developer receives inaccurate or corrupt OSS components based on project request.
 
-**Trigger:** Corporate developer sends request for open source software license and vulnerability information
+**Trigger:** Corporate developer sends request for open source software project license and vulnerability information
 
 
 <br> <br>
