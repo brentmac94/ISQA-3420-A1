@@ -1,7 +1,7 @@
 **Use Case Diagrams (3)**
 
 ##Title: Determine License and Vulnerability Infomation##
-**Primary Actor:** Corporate Manager (not getting line break)
+**Primary Actor:** Corporate Manager <br>
 **Goal in Context:** The Corporate Manager is able to determine license and vulnerability information from provided project information.
 
 **Stakeholders:**
@@ -22,24 +22,26 @@
 
 
 <br> <br>
-##Title: Determine OSS Software Components of Project## (Good use case but I don't think it's supported by your DFD at the moment)
-**Primary Actor:** Corporate Developer
-**Goal in Context:** The corporate developer is able to determine Open Soure Software Package Components from provided project information. 
+##Title: Retrieve and upate polcy for software project##
+**Primary Actor:** Corporate Manager
+**Goal in Context:** The corporate manager is able to retrieve and update or create policy documents for a software project.
 **Stakeholders:**
-  - Coroprate Developer: To provide the revelevant file/package level information
+  - Coroprate Manager: To provide new or updated software policy information.
 
-**Preconditions:**
-  - Relevant file/package information is in the NIST Vulnerability Database and the Software Package Info Database is up and running (watch your use of CAPS)
+**Preconditions:** Relevant file/package information is in Software Project License and Vulnerability Policy
+ Database and is up and running.
   
-**Main Success Scenario:** Corporate Developer recieves required OSS components based on corresponding project request.
+**Main Success Scenario:** Corporate Manager recieves software project policy information and updates the policy for the software project.
 
-**Failed End Conditions:** Corporate Developer receives inaccurate or corrupt OSS components based on project request.
+**Failed End Conditions:** <br>
+Corporate Manager receives inaccurate or corrupt policy information from the Software Package License and Vulnerability Policy Database.
+<br>
+Software Package License and Vulnerability Policy is not up and running.
 
-**Trigger:** Corporate developer sends request for open source software project license and vulnerability information
+**Trigger:** Corporate manager sends request to Software Project License and Vulnerability Polic Database
 
 
 <br> <br>
-(Didn't look at this one yet)
 ##Title: Determine Policies for Corresponding Software Packages##
 **Primary Actor:** Corporate Manager
 **Goal in Context:** The Corporate Manager is able to determine Open Soure Software Package Policies from provided project information. With this, the Coporate Manager can recieve and update current policy documents.
