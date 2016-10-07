@@ -45,7 +45,7 @@ Software Package License and Vulnerability Policy is not up and running.
 
 
 <br> <br>
-##Title: Determine Policies for Corresponding Software Packages## 
+##Title: Determine Policies for Corresponding Software Packages
 
 **Primary Actor:** Corporate Manager
 
