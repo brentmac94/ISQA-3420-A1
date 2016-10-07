@@ -22,7 +22,8 @@
 
 
 <br> <br>
-##Title: Retrieve and upate polcy for software project##
+##Title: Retrieve and upate polcy for software project## -- This Use Case needs a bit of work. Right now, your DFD supports the ability for the manager to only update. You'll see this in your Dataflows. Also, there is no support in your DFD to create new policy. 
+
 **Primary Actor:** Corporate Manager
 **Goal in Context:** The corporate manager is able to retrieve and update or create policy documents for a software project.
 **Stakeholders:**
@@ -42,7 +43,8 @@ Software Package License and Vulnerability Policy is not up and running.
 
 
 <br> <br>
-##Title: Determine Policies for Corresponding Software Packages##
+##Title: Determine Policies for Corresponding Software Packages## -- Don't connect this use case with the Update part. Just use this use case to retrieve policy information 
+
 **Primary Actor:** Corporate Manager
 **Goal in Context:** The Corporate Manager is able to determine Open Soure Software Package Policies from provided project information. With this, the Coporate Manager can recieve and update current policy documents.
 **Stakeholders:**
