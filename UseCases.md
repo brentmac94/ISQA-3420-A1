@@ -22,12 +22,14 @@
 
 
 <br> <br>
-##Title: Retrieve and upate polcy for software project## -- This Use Case needs a bit of work. Right now, your DFD supports the ability for the manager to only update. You'll see this in your Dataflows. Also, there is no support in your DFD to create new policy. 
+##Title: Retrieve and upate polcy for software project##
 
 **Primary Actor:** Corporate Manager
-**Goal in Context:** The corporate manager is able to retrieve and update or create policy documents for a software project.
+
+**Goal in Context:** The corporate manager is able to retrieve and update policy documents for a software project.
+
 **Stakeholders:**
-  - Coroprate Manager: To provide new or updated software policy information.
+  - Coroprate Manager: To provide updated software policy information.
 
 **Preconditions:** Relevant file/package information is in Software Project License and Vulnerability Policy
  Database and is up and running.
@@ -43,22 +45,24 @@ Software Package License and Vulnerability Policy is not up and running.
 
 
 <br> <br>
-##Title: Determine Policies for Corresponding Software Packages## -- Don't connect this use case with the Update part. Just use this use case to retrieve policy information 
+##Title: Determine Policies for Corresponding Software Packages## 
 
 **Primary Actor:** Corporate Manager
+
 **Goal in Context:** The Corporate Manager is able to determine Open Soure Software Package Policies from provided project information. With this, the Coporate Manager can recieve and update current policy documents.
+
 **Stakeholders:**
-  - Coroporate Manager: To request, recieve and update software package policy information.
-  - Coroprate Developer: To request and recieve associated software policies
+  - Coroporate Manager: To retrieve and update software package policy information.
+  - Coroprate Developer: To request and retrieve associated software policies
 
 **Preconditions:**
   - Relevant file/package information is in the Software Package License and Vulnerability Policy database 
   - Software Package Info Database and NIST Vulnerability Database is up and running
   - FOSSology is up and runnning
   
-**Main Success Scenario:** Corporate Manager recieves associated policy for corresponding software based on corresponding request. Policy document is updated.
+**Main Success Scenario:** Corporate Manager recieves associated policy for corresponding software based on corresponding request.
 
 **Failed End Conditions:** Corporate Manager receives inaccurate or corrupt software package policy.
 
-**Trigger:** Corporate Manager is able to update policy document for corresponding software package.
+**Trigger:** Corporate Manager request and retrieves accurate policy information.
 
