@@ -48,8 +48,6 @@
 
 **Updated Policy Document** - Most up to date policy document submitted by Manager.
 
-**Current Policy Document** - Policy that is returned from the Software Project License and Vulnerability Policy database.
-
 **Software Package License and Vulnerability Policy** - Database that stores all Software Project License and Vulnerability Policy information.
 
 
