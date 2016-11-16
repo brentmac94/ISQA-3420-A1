@@ -1,0 +1,2 @@
+This GNU (General Public License) is the most popular free software license.
+This gives all involved entities the freedom to execute, modify and share the  source code.
